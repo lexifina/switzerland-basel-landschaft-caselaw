@@ -1,0 +1,34 @@
+---
+decision_id: "bl_gerichte_24_top"
+court: "BL Gerichte"
+court_id: "bl_gerichte"
+docket: "24#top"
+decided: "2007-06-26"
+language: "de"
+source_url: "http://v2202109132150164038.luckysrv.de:8181/https://www.baselland.ch/politik-und-behorden/gerichte/rechtsprechung/kantonsgericht_rs/chronologische-anordnung/2007/24#top"
+cites_law: ["switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# BL Gerichte 24#top
+
+## Regeste
+
+Konkurseröffnung ohne vorgängige Betreibung auf Antrag des Schuldners
+
+## Text
+
+Basel-Land Kantonsgericht 26.06.2007 24#top
+Bâle-Campagne Kantonsgericht 26.06.2007 24#top
+Basilea Campagna Kantonsgericht 26.06.2007 24#top
+
+Rechtsprechung des Kantonsgerichts
+Schuldbetreibungs- und Konkursrecht
+Konkurseröffnung ohne vorgängige Betreibung auf Antrag des Schuldners
+Aussicht auf eine Schuldenbereinigung wird in der Regel angenommen, wenn der Schuldner mit dem pro Monat berechneten Überschuss über dem erweiterten betreibungsrechtlichen Existenzminimum einen beträchtlichen Teil der Schulden in einem angemessenen Zeitraum zu tilgen vermag. Ob die Erweiterung des betreibungsrechtlichen Existenzminimum durch eine (prozentuale) Erhöhung des Grundbetrages und/oder eine massvolle Anhebung einzelner Zuschläge geschieht, bleibt letztlich dem Sachrichter überlassen (Art. 191 Abs. 2 SchKG; E. 3.2).
+Erwägungen
+1. ( … )
+2. ( … )
+3.1 Die Vorinstanz erwog im Wesentlichen, im vorliegenden Falle könne die Aussicht auf eine Schuldenbereinigung nicht ausgeschlossen werden. Der Schuldner verfüge über einen monatlichen Überschuss von CHF 1'356.00 und sei in der Lage die geltend gemachten Schulden von CHF 75'036.80 mit den vorhandenen Mitteln innert rund 4,6 Jahren abzutragen. Falls die unbewiesenen Privatdarlehen im Gesamtbetrag von CHF 13'000.00 nicht berücksichtigt würden, könne die restliche Schuldsumme sogar in rund 3,8 Jahren amortisiert werden. Der Bezirksgerichtspräsident erachtete das Konkursbegehren des Schuldners mithin als rechtsmissbräuchlich. Der Appellant lässt durch die Fachstelle für Schuldenfragen sinngemäss monieren, die Sanierungsrate von CHF 1'356.00 sei zu hoch veranschlagt. Es seien insbesondere die laufenden Steuern, ein Betrag für Rückstellungen für Gesundheitskosten sowie für Diverses / Unvorhergesehenes einzukalkulieren. Die Berechnungen hätten ergeben, dass eine Tilgung der offenen Forderungen mittels Lohnpfändungen rund 55 Monate dauern würde.
+3.2 Das Kantonsgericht Basel-Landschaft, Abteilung Zivil- und Strafrecht, kommt nach Einsichtnahme in die vorliegenden Akten und gestützt auf die ergänzenden Ausführungen des Schuldners sowie der Vertreterin der Fachstelle für Schuldenfragen zum Schluss, dass die Appellation des Gesuchstellers begründet ist. Der Bezirksgerichtspräsident hat nach Auffassung des Kantonsgerichts, Abteilung Zivil- und Strafrecht, die Anforderungen, welche an den Antrag eines Schuldners auf Konkurseröffnung ohne vorgängige Betreibung gemäss Art. 191 SchKG zu stellen sind, zu streng beurteilt. Der Gesuchsteller muss bei der Insolvenzerklärung weder seine Zahlungsunfähigkeit noch eine Überschuldung nachweisen (BGE 119 III 113). Vielmehr genügt es, wenn er den entsprechenden Sachverhalt ohne besondere Grundangabe dem Konkursrichter anzeigt und keine Hinderungsgründe für eine Konkurseröffnung vorliegen (vgl. Hug-Beerli, Konkurseröffnung ohne vorgängige Betreibung auf Antrag des Schuldners; in: BlSchK 1998, S. 41 ff.; SchKG-Brunner, N 9 ff. zu Art. 191 je mit weiteren Nachweisen). Im vorliegenden Fall nun hat die Vorinstanz bei der Ermittlung der massgeblichen Sanierungsrate insbesondere den Notbedarf des Appellanten zu knapp bemessen. Das betreibungsrechtliche Existenzminimum ist praxisgemäss angemessen zu erweitern, ob dies durch eine (prozentuale) Erhöhung des Grundbetrages oder eine massvolle Anhebung einzelner Zuschläge geschieht, bleibt letztlich dem Sachrichter überlassen. In casu erscheint es angebracht, den Notbedarf mindestens um die laufende Steuerbelastung sowie einen Betrag an die von der obligatorischen Krankenversicherung nicht gedeckten Selbstbehalte und Franchisen für ärztliche Behandlungen und notwendige Heilmittel zu erweitern. Ferner ist es angezeigt, dem Schuldner, welcher im Gartenbau tätig ist, einen Zuschlag für erhöhten Nahrungsbedarf zuzugestehen. Es resultiert folglich ein massgebliches Existenzminimum von mehr als CHF 3'500.00 pro Monat. Eine vollständige Tilgung der Schulden, die sich laut Gläubigerliste und glaubhaften Beteuerungen des Gesuchstellers anlässlich der heutigen Verhandlung gegenwärtig unverzinst immer noch auf über CHF 75'000.00 belaufen, würde bei einer verbleibenden Sanierungsrate von monatlich etwa CHF 850.00 mehr als sieben Jahre beanspruchen. Diese Zeitdauer für eine vollständige Tilgung der Schuldenlast ist zweifellos unzumutbar lang. Der Gesuchsteller versäumt es zwar in der Tat, seine Behauptung, es bestehe keinerlei Aussicht auf eine einvernehmliche Schuldenbereinigung, mit schriftlichen Unterlagen zu belegen. Allerdings ist in der vorliegenden Ausgangslage zu vermuten, dass keine entsprechende Aussicht besteht, zumal die beigezogene Fachstelle für Schuldenfragen über einschlägige Erfahrungen verfügt und die Steuerverwaltung sowie das involvierte Kreditinstitut bekanntermassen kaum Hand für eine einvernehmliche Schuldenbereinigung bieten. Das Kantonsgericht Basel-Landschaft, Abteilung Zivil- und Strafrecht, vermag letztlich keinen Rechtsmissbrauch zu erkennen, strebt doch der Gesuchsteller mit der Insolvenzerklärung einen wirtschaftlichen Neubeginn an und kann nach dem Konkurs den laufenden Verpflichtungen wieder nachkommen. Der notwendige Kostenvorschuss ist ebenfalls geleistet worden, so dass die Durchführung des (summarischen) Konkursverfahrens sichergestellt ist. Im Ergebnis ist das Urteil des Bezirksgerichtspräsidenten L. daher aufzuheben und über den Gesuchsteller gestützt auf Art. 191 SchKG mit heutigem Datum, 09.00 Uhr, der Konkurs zu eröffnen.
+KGE ZS vom 26. Juni 2007 i.S. R.W. (100 07 379/LIA)
+Back to Top
