@@ -1,0 +1,42 @@
+---
+decision_id: "bl_gerichte_copy_of_2009_9"
+court: "BL Gerichte"
+court_id: "bl_gerichte"
+docket: "copy_of_2009/9"
+decided: "2009-09-04"
+language: "de"
+source_url: "http://v2202109132150164038.luckysrv.de:8181/https://www.baselland.ch/politik-und-behorden/gerichte/rechtsprechung/kantonsgericht_rs/chronologische-anordnung/copy_of_2009/9"
+cites_law: ["switzerland/bund/acts/830.1/art-006.md", "switzerland/bund/acts/831.20/art-018.md"]
+---
+
+# BL Gerichte copy_of_2009/9
+
+## Regeste
+
+Anspruchsvoraussetzungen der Arbeitsvermittlung im Sinne von Art. 18 Abs. 1 IVG
+
+## Text
+
+Basel-Land Kantonsgericht 04.09.2009 copy_of_2009/9
+Bâle-Campagne Kantonsgericht 04.09.2009 copy_of_2009/9
+Basilea Campagna Kantonsgericht 04.09.2009 copy_of_2009/9
+
+Rechtsprechung des Kantonsgerichts
+Invalidenversicherung
+Anspruchsvoraussetzungen der Arbeitsvermittlung im Sinne von Art. 18 Abs. 1 IVG
+Art. 18 Abs. 1 IVG verlangt neu keinen Kausalzusammenhang zwischen dem Gesundheitsschaden und der Notwendigkeit der Arbeitsvermittlung mehr, sondern Arbeitsvermittlung ist bereits dann zu gewähren, wenn die Arbeitsunfähigkeit im Sinne von Art. 6 ATSG und die subjektive sowie objektive Eingliederungsfähigkeit rechtsgenüglich erstellt sind (Art. 18 Abs. 1; E. 5.1).
+Der Anspruch auf Arbeitsvermittlung mit Hilfe der Organe der IV dauert rechtsprechungsgemäss so lange an, bis der Versicherte platziert oder eingegliedert ist oder allenfalls die subjektive oder objektive Eingliederungsfähigkeit wegfällt (E. 8.1).
+Sachverhalt
+Der 1981 geborene H. stellte bei der Eidgenössischen Invalidenversicherung ein Gesuch um Eingliederungsmassnahmen beruflicher Art. Daraufhin gewährte die IV-Stelle Basel-Landschaft H. als berufliche Massnahme ein Arbeitstraining bei der Firma A. AG. Acht Monate später verfügte die IV-Stelle, dass die Arbeitsvermittlung abgeschlossen werde, da es trotz Bemühungen und Unterstützung nicht gelungen sei, H. innert angemessener Frist in den Arbeitsmarkt zu integrieren. Gegen diese Verfügung erhob H. fristgerecht Beschwerde.
+Erwägungen
+1. - 4. (…)
+5.1 Eine für die Arbeitsvermittlung massgebende Invalidität lag nach der bis Ende 2007 in Kraft stehenden Fassung von Art. 18 Abs. 1 Satz 1 IVG vor, wenn die versicherte Person bei der Suche nach einer geeigneten Arbeitsstelle aus gesundheitlichen Gründen Schwierigkeiten hatte, d.h. es musste für die Bejahung einer Invalidität zwischen dem Gesundheitsschaden und der Notwendigkeit der Arbeitsvermittlung ein Kausalzusammenhang bestehen. Auf Arbeitsvermittlung nach Art. 18 Abs. 1 Satz 1 IVG hatte im Weiteren Anspruch, wer aus invaliditätsbedingten Gründen spezielle Anforderungen an den Arbeitsplatz oder den Arbeitgeber stellen musste und demzufolge für das Finden einer Stelle auf das Fachwissen und entsprechende Hilfe der Vermittlungsbehörden angewiesen war (vgl. hierzu Sozialversicherungsrecht - Rechtsprechung 2006 IV Nr. 45 S. 164 E. 4.1.1 mit Hinweisen). Ein Anspruch auf Arbeitsvermittlung im Sinne von Art. 18 IVG setzte zudem keinen Mindestinvaliditätsgrad voraus und die Anforderungen an die invaliditätsmässigen Voraussetzungen bezüglich der Arbeitsvermittlung waren äusserst gering (vgl. hierzu BGE 116 V 80 E. 6). Gemäss der seit dem 1. Januar 2008 in Kraft stehenden Fassung von Art. 18 Abs. 1 IVG haben arbeitsunfähige Versicherte, welche eingliederungsfähig sind, Anspruch auf aktive Unterstützung bei der Suche eines geeigneten Arbeitsplatzes (lit. a). Die Bestimmung verlangt neu
+keinen Kausalzusammenhang
+zwischen dem Gesundheitsschaden und der Notwendigkeit der Arbeitsvermittlung mehr, sondern Arbeitsvermittlung ist bereits schon dann zu gewähren, wenn die Arbeitsunfähigkeit im Sinne von Art. 6 ATSG und die subjektive sowie objektive Eingliederungsfähigkeit rechtsgenüglich erstellt sind. Gemäss der aktuellen Fassung des Art. 18 Abs. 1 IVG werden die Anspruchsvoraussetzungen somit offener gefasst, sodass neu jede arbeitsunfähige Person, welche eingliederungsfähig ist, von der Arbeitsvermittlung profitieren kann. Ein Mindestinvaliditätsgrad wird zudem auch nach der heutigen Fassung von Art. 18 Abs. 1 IVG nicht verlangt. Die Arbeitsvermittlung kann unter Umständen ohne weitere Massnahmen (z.B. Umschulung) rasch zu einer Wiedereingliederung führen. Deshalb soll sie schnell und möglichst ohne Verzug von der IV-Stelle veranlasst werden, nachdem diese die Anspruchsvoraussetzungen summarisch geprüft hat (vgl. hierzu Botschaft zur Änderung des Bundesgesetzes über die Invalidenversicherung [5. Revision] vom 22. Juni 2005, S. 4565; Kreisschreiben über die Eingliederungsmassnahmen beruflicher Art, gültig ab 1. Januar 2008, Rz 5005; Urteil des Sozialversicherungsgerichts Zürich vom 24. Juni 2009, IV.2008.00617, E. 5.3).
+5.2 - 8. (…)
+8.1 Der Anspruch auf Arbeitsvermittlung mit Hilfe der Organe der IV dauert rechtsprechungsgemäss so lange an, bis der Versicherte platziert oder eingegliedert ist (vgl. hierzu BGE 103 V 18 E. 1) oder allenfalls die subjektive oder objektive Eingliederungsfähigkeit wegfällt. Wie vorstehend bereits ausgeführt (E. 7 hiervor), bestehen die subjektive und objektive Eingliederungsfähigkeit des Beschwerdeführers nach wie vor. Es kann nämlich entgegen der Auffassung der IV-Stelle nicht davon ausgegangen werden, dass während der letzten Arbeitsvermittlung bei der Firma Arvato Logistics die subjektive Eingliederungsfähigkeit weggefallen ist, weil der Beschwerdeführer einen Arbeitsversuch abgebrochen habe. Vielmehr scheiterte der Arbeitsversuch aus gesundheitlichen Gründen, da die zu verrichtende Arbeit dem Beschwerdeführer nicht zumutbar war. ( … )
+Das Ziel der Arbeitsvermittlung, nämlich die Platzierung und Eingliederung des Versicherten, ist demzufolge nicht erfüllt und der Anspruch besteht weiterhin. Zusätzlich muss ein aktuelles Rechtsschutzinteresse beim Beschwerdeführer bejaht werden, da er gemäss den vorliegenden Akten lediglich eine 50%-Stelle und keine Vollzeitanstellung gefunden hat, obwohl er aber, den ärztlichen Berichten zu Folge, in einer Verweistätigkeit zu 100% arbeitsfähig ist und offensichtlich auch eine Vollzeittätigkeit sucht.
+8.2 - 9.2 (…)
+KGE SV vom 4. September 2009 i.S. H. (720 09 36)
+Dieser Entscheid ist noch nicht in Rechtskraft erwachsen.
+Back to Top
